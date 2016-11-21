@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\MS SQL Server Monitoring\MS SQL Server Monitoring\bin\Debug\MS SQL Server Monitoring.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\MS SQL Server Monitoring\MS SQL Server Monitoring\bin\Debug\MS SQL Server Monitoring.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\MS SQL Server Monitoring\MS SQL Server Monitoring\bin\Debug\MS SQL Server Monitoring.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\MS SQL Server Monitoring\MS SQL Server Monitoring\obj\Debug\MS SQL Server Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\MS SQL Server Monitoring\MS SQL Server Monitoring\obj\Debug\MS SQL Server Monitoring.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\MS SQL Server Monitoring\MS SQL Server Monitoring\obj\Debug\MS SQL Server Monitoring.pdb
